@@ -127,10 +127,12 @@ body {
   .remember-forget {
     align-items: flex-start;
     gap: 10px;
-    display: flex;
+    justify-content: space-between;
+    
   }
 
   .register-link {
     font-size: 13px;
   }
 }
+
